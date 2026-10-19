@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0.1//EN
+N:有田;英輝;;;
+FN:英輝 有田
+X-PHONETIC-FIRST-NAME:エイキ
+X-PHONETIC-LAST-NAME:アリタ
+ORG:株式会社　きくや美粧堂 浅草支店;
+X-PHONETIC-ORG:カブシキカイシャキクヤビショウドウアサクサシテン
+TEL;type=CELL;type=VOICE;type=pref:090 6522 1084
+EMAIL;type=INTERNET;type=WORK;type=pref:kb-eiki.arita@keex.co.jp
+TEL;type=WORK;type=FAX:0120 267 27
+TEL;type=WORK;type=VOICE:03 5826 5111
+item1.ADR;type=WORK;type=pref:;;浅草２－２７－７\n浅草TFビル 3F;台東区;東京都;111-0035;日本
+item1.X-ABADR:jp
+item2.URL;type=pref:https://line.me/ti/p/BKWFZ3TC_f
+item2.X-ABLabel:LINE
+item3.URL:https://works.do/R/ti/p/6052@keex
+item3.X-ABLabel:LINE Works
+END:VCARD
